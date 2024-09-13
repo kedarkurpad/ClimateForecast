@@ -24,8 +24,9 @@ This project analyzes the relationship between greenhouse gas emissions (GHG), G
 * Global GDP data from [tbd]
 * Surface Temperature Anomalies data from [tbd]
 
-**Next Steps**
+**Change Log**
+* Completed EDA on the dataset to highlight correlations and trends between CO2 and STA
 
-* Complete EDA on the dataset to highlight correlations and trends.
+**Next Steps**
 * Implement time series forecasting models using ARIMA, SARIMA, or Regression.
 * Publish visualizations and insights to GitHub Pages and Substack.
